@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package electricitybill;
 
-/**
- *
- * @author 91822
- */
 import java.util.*;
 
 class threadclass extends Thread{   // inheritence and multithreading
